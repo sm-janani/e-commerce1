@@ -1,0 +1,43 @@
+[
+  {
+    "product_id": "SKU-1001",
+    "name": "Wireless Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "price": 4999.00,
+    "stock": 42,
+    "variants": ["Black", "Silver"]
+  },
+  {
+    "product_id": "SKU-2044",
+    "name": "Smart Fitness Watch",
+    "category": "Electronics",
+    "price": 3499.00,
+    "stock": 0,
+    "variants": ["Black", "Rose Gold", "Blue"],
+    "restock_date": "2026-09-20"
+  },
+  {
+    "product_id": "SKU-3012",
+    "name": "Watch Charging Dock",
+    "category": "Accessories",
+    "price": 499.00,
+    "stock": 120,
+    "variants": ["Universal"]
+  },
+  {
+    "product_id": "SKU-4021",
+    "name": "Ceramic Non-Stick Pan Set",
+    "category": "Home & Kitchen",
+    "price": 2199.00,
+    "stock": 15,
+    "variants": ["3-Piece", "5-Piece"]
+  },
+  {
+    "product_id": "SKU-5090",
+    "name": "Bluetooth Portable Speaker",
+    "category": "Electronics",
+    "price": 1799.00,
+    "stock": 8,
+    "variants": ["Red", "Black", "Teal"]
+  }
+]

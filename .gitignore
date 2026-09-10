@@ -1,0 +1,18 @@
+# Environment
+.env
+backend/.env
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Data written at runtime
+backend/data/tickets.json
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

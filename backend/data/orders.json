@@ -1,0 +1,60 @@
+[
+  {
+    "order_id": "ORD-10234",
+    "customer_email": "priya.sharma@example.com",
+    "status": "shipped",
+    "order_date": "2026-08-28",
+    "estimated_delivery": "2026-09-11",
+    "tracking_number": "IN482910345XY",
+    "carrier": "BlueDart",
+    "items": [
+      { "product_id": "SKU-1001", "name": "Wireless Noise-Cancelling Headphones", "quantity": 1, "price": 4999.00 }
+    ],
+    "total": 4999.00,
+    "payment_status": "paid"
+  },
+  {
+    "order_id": "ORD-10235",
+    "customer_email": "arjun.mehta@example.com",
+    "status": "processing",
+    "order_date": "2026-09-07",
+    "estimated_delivery": "2026-09-14",
+    "tracking_number": null,
+    "carrier": null,
+    "items": [
+      { "product_id": "SKU-2044", "name": "Smart Fitness Watch", "quantity": 1, "price": 3499.00 },
+      { "product_id": "SKU-3012", "name": "Watch Charging Dock", "quantity": 1, "price": 499.00 }
+    ],
+    "total": 3998.00,
+    "payment_status": "paid"
+  },
+  {
+    "order_id": "ORD-10236",
+    "customer_email": "sara.khan@example.com",
+    "status": "delivered",
+    "order_date": "2026-08-20",
+    "estimated_delivery": "2026-08-26",
+    "delivered_date": "2026-08-25",
+    "tracking_number": "IN482910300ZQ",
+    "carrier": "Delhivery",
+    "items": [
+      { "product_id": "SKU-4021", "name": "Ceramic Non-Stick Pan Set", "quantity": 1, "price": 2199.00 }
+    ],
+    "total": 2199.00,
+    "payment_status": "paid"
+  },
+  {
+    "order_id": "ORD-10237",
+    "customer_email": "priya.sharma@example.com",
+    "status": "cancelled",
+    "order_date": "2026-09-01",
+    "estimated_delivery": null,
+    "tracking_number": null,
+    "carrier": null,
+    "items": [
+      { "product_id": "SKU-5090", "name": "Bluetooth Portable Speaker", "quantity": 1, "price": 1799.00 }
+    ],
+    "total": 1799.00,
+    "payment_status": "refunded"
+  }
+]
